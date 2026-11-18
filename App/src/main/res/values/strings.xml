@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name" translatable="false">Lightning Browser</string>
+    <string name="app_name" translatable="false">Bansify Browser Lite</string>
     <string name="add_group">Add Group</string>
     <string name="delete_group">Delete Group</string>
     <string name="edit_group">Edit Group</string>
