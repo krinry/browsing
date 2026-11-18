@@ -1,4 +1,4 @@
-# Gothwad Browsing
+# Bansify Browser Lite
 A powerful Gecko-based browser for Android, TV, and VR. 
 
 ## Features
